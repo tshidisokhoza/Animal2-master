@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AnimalTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-29T11:38:02" hostname="recruit" time="0.034">
+  <properties/>
+  <testcase name="TestHome()" classname="AnimalTests" time="0.034"/>
+  <system-out><![CDATA[already Adopted
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
